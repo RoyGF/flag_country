@@ -4,5 +4,7 @@
     <dimen name="size_zero">0dp</dimen>
     <dimen name="margin_small">8dp</dimen>
     <dimen name="item_country_height">100dp</dimen>
+    <dimen name="flat_padding">8dp</dimen>
+    <dimen name="flag_item_margin">10dp</dimen>
 
 </resources>
