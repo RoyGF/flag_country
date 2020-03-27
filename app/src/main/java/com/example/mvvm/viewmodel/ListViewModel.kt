@@ -47,7 +47,6 @@ class ListViewModel : ViewModel() {
                         countryLoadError.value = true
                         loading.value = false
                     }
-
                 })
         )
     }
