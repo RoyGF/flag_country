@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MVVM</string>
+    <string name="app_name">Countries</string>
     <string name="hello_world">Hola Mundo 2</string>
     <string name="loading_error">An Error ocurred while loading Data.</string>
 </resources>
