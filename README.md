@@ -5,3 +5,4 @@ I made this app using MVVM architecture, Retrofit and Dagger 2.
 It has some Unit Testing as well.
 
 ## Screen Shot
+![Screenshot] (/img/ScreenShot01.jpeg)
